@@ -1,0 +1,83 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;}
+
+body{
+background-image: url(https://i.pinimg.com/originals/92/dc/13/92dc13df1f31754c07becfe13714288c.gif);
+
+}
+
+
+.container{
+display: flex;
+position: relative;
+justify-content: center;
+align-items: center;
+padding-top: 100px;
+height: 100px;
+align-items: center;
+justify-content: center;
+bottom: 45vh;
+
+
+}
+.container > div{
+
+background-color: rgb(248, 114, 134);
+margin-top: 200px;
+font-size: 30px;
+border-radius: 25%;
+align-items: center;
+justify-content: center;
+width: 50%;
+height: 100vh;
+
+}
+p{
+    font-size: 80%;
+    font-weight: 500;
+    text-align: center;
+    justify-content: center;
+    top: 26vh;
+    padding-left: 8vh;
+padding-right: 8vh;
+    position: relative;
+    color: white;
+}
+h3{
+text-align: center;
+justify-content: center;
+text-align: center;
+font-weight: 1000;
+font-size: 80%;
+top: 24vh;
+padding-left: 8vh;
+padding-right: 8vh;
+position: relative;
+color: white;
+
+
+}
+h2{
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    top: 30vh;
+    color: white;
+    font-size: 90%;
+
+}
+.darek{
+    height: 13%;
+    position: relative;
+    left: 20vh;
+    width: 20px;
+    bottom: 4vh;
+}
