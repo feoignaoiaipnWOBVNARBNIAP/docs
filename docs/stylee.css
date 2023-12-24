@@ -23,7 +23,7 @@ padding-top: 10vh;
 height: 10vh;
 align-items: center;
 justify-content: center;
-bottom: 28vh;
+bottom: 30vh;
 
 
 }
@@ -75,7 +75,7 @@ h2{
 
 }
 .darek{
-    height: 13%;
+    height: 5%;
     position: relative;
     left: 20vh;
     width: 2vh;
